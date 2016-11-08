@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	service.Run()
+	adhocservice.Run()
 }
