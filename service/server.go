@@ -2,7 +2,7 @@
 //go:generate go get github.com/martini-contrib/throttle
 //go:generate go get github.com/martini-contrib/auth
 
-package service
+package adhocservice
 
 import (
 	"errors"
